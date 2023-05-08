@@ -1,0 +1,5 @@
+.
+├── 10folds_C1223           #train and test data.
+├── effector_ppi_database   #origin effector ppi database.
+└── sequences               #arabidopsis thaliana and pathogen protein sequences.
+3 directories
