@@ -18,7 +18,6 @@
 │   │   └── Intact_TAIR_protein_interaction.txt # Arabidopsis thaliana PPIs collected from UniProt and TAIR.
 │   ├── CKSAAP
 │   ├── CT
-│   ├── doc2vec
 │   ├── DPC
 │   ├── EsmMean
 │   │   ├── esm2_env.yml    # Conda configuration environment for EsmMean.
@@ -44,6 +43,7 @@
 Run each feature generation script.
 ```
 # example 
+# create running environment
 tar -xvf ./data/sequences/ara_and_eff.tar.xz
 cd ./features/AC
 python generate_AC_encode.py
