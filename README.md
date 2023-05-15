@@ -32,9 +32,10 @@
     └── run.sh  # execute command
 ```
 # 2. Generate features
+    Run each feature generation script.
 ```
-    # Run each feature generation script.
     # example 
+    tar -xvf ./data/sequences/ara_and_eff.tar.xz
     cd ./features/AC
     python generate_AC_encode.py
 ```
