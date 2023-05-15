@@ -42,8 +42,8 @@
 ## 2. Generate features
 Run each feature generation script.
 ```
-# example 
-# create running environment
+# Example 
+# Create the conda runtime environment from the provided yaml file.
 tar -xvf ./data/sequences/ara_and_eff.tar.xz
 cd ./features/AC
 python generate_AC_encode.py
