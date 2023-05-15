@@ -1,4 +1,4 @@
-# 1. Directory structure
+## 1. Directory structure
 ```
 .
 ├── data
@@ -40,7 +40,7 @@
     └── script_env.yml  # Conda configuration environment.
 
 ```
-# 2. Generate features
+## 2. Generate features
 Run each feature generation script.
 ```
 # example 
@@ -49,13 +49,13 @@ cd ./features/AC
 python generate_AC_encode.py
 ```
 
-# 3. For XGBoost train and test.
+## 3. For XGBoost train and test.
 ```
 cd ./script/
 python 10folds_RF_C1223.py  EsmMean AraNetStruc2vec
 ```
 
-# 4. Our web server
+## 4. Our web server
 http://zzdlab.com/intersppi/arapathogen/index.php
 
 
