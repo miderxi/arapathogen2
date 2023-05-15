@@ -28,7 +28,7 @@
 ├── output                  # Output
 │   ├── model_state
 │   ├── pics
-│   ├── preds.tar.xz        # Prediction results of the model.
+│   └── preds.tar.xz        # Prediction results of the model.
 └── script      # Script for train and test.
     ├── 10folds_NN_C1223.py
     ├── 10folds_RF_C1223.py
