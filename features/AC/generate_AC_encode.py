@@ -3,7 +3,7 @@ from Bio import SeqIO
 from multiprocessing import Pool
 import sys
 import pickle
-
+    
 def ac(k,seq):
     aminos = "AGVCDEFILPHNQWKRMSTY"
     ac_category = {
