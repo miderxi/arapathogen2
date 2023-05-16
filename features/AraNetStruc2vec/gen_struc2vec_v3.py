@@ -1,5 +1,4 @@
 import networkx as nx
-#from GraphEmbedding.ge.models import Struc2Vec #old version
 from ge import Struc2Vec
 import pickle
 
