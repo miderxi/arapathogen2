@@ -37,8 +37,8 @@
     ├── 10folds_Xgboost_C1223.py    # Training and testing code for XGBoost.
     ├── gen_Xgboost_model.py        # Generate model with whole data.
     ├── RF_features.py              # Load feature.
-    ├── run.sh          # Execute command.
-    └── script_env.yml  # Conda configuration environment.
+    ├── run.sh                      # Execute command.
+    └── script_env.yml              # Conda configuration environment.
 
 ```
 ## 2. Generate features
