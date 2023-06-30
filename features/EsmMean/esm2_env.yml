@@ -1,12 +1,3 @@
-# conda environments:
-#
-base                  *  /home/cpl/miniconda3
-dscript                  /home/cpl/miniconda3/envs/dscript
-esm2                     /home/cpl/miniconda3/envs/esm2
-graph2vec                /home/cpl/miniconda3/envs/graph2vec
-
-(base) [cpl@zzdlab23-dl ~]$ conda activate esm2
-(esm2) [cpl@zzdlab23-dl ~]$ conda env export 
 name: esm2
 channels:
   - pytorch
