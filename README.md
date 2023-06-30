@@ -45,7 +45,7 @@
 Run the generation code in the corresponding feature folder to generate the features.
 ```
 # Example 
-# Create the conda runtime environment from the provided yaml file.
+# Create the conda runtime environment from the provided yml file.
 tar -xvf ./data/sequences/ara_and_eff.tar.xz
 cd ./features/AC
 python generate_AC_encode.py
