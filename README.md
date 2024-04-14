@@ -61,3 +61,9 @@ python 10folds_RF_C1223.py  EsmMean AraNetStruc2vec
 http://zzdlab.com/intersppi/arapathogen/index.php
 
 
+##Citation:
+Lei C, Zhou K, Zheng J, et al. AraPathogen2.0: An Improved Prediction of Plant-Pathogen Protein-Protein Interactions Empowered by the Natural Language Processing Technique. J. Proteome Res. 2024, 23, 494−499. doi:10.1021/acs.jproteome.3c00364
+
+Yang S, Li H, He H, Zhou Y, Zhang Z. Critical assessment and performance improvement of plant-pathogen protein-protein interaction prediction methods. Brief Bioinform. 2019;20(1):274-287. doi:10.1093/bib/bbx123
+
+
